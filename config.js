@@ -13,7 +13,7 @@ var config = {
             units: 'metric',
             // if you want a different lang for the weather that what is set above, change it here
             lang: 'en',
-            APPID: '7a7c1779e0b69634731a17da470fe46f'
+            APPID: 'Your API KEY from openweathermap.org'
         }
     },
     compliments: {
